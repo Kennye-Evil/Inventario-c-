@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenny\\Desktop\\proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|c:\\users\\kenny\\desktop\\proyecto\\proyecto\\capadedatos\\nacionalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\capadedatos\\nacionalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|c:\\users\\kenny\\desktop\\proyecto\\proyecto\\presentacion\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\presentacion\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|c:\\users\\kenny\\desktop\\proyecto\\proyecto\\presentacion\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|c:\\users\\kenny\\desktop\\proyecto\\proyecto\\presentacion\\disquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\disquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\presentacion\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|c:\\users\\kenny\\desktop\\proyecto\\proyecto\\presentacion\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\presentacion\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\presentacion\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\presentacion\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\presentacion\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\presentacion\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Presentacion\\Artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuarioartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuarioartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuarioartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuarioartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioDisquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Usuaro\\UsuarioDisquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuariodisquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuariodisquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioTema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Usuaro\\UsuarioTema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuariotema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuariotema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioIdioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Usuaro\\UsuarioIdioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuarioidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuarioidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuarioalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuarioalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuarioalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuarioalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuarionacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuarionacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioNacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Usuaro\\UsuarioNacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\usuaro\\usuariogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\usuaro\\usuariogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioGenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FC2B5-F003-4829-B71B-7B65B78F6AE9}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\Usuaro\\UsuarioGenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Program.cs",
+              "RelativeToolTip": "proyecto\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:26:03.374Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nacionalidades.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\nacionalidades.cs",
+              "RelativeDocumentMoniker": "proyecto\\Capadedatos\\nacionalidades.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\nacionalidades.cs",
+              "RelativeToolTip": "proyecto\\Capadedatos\\nacionalidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:48:27.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nacionalidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Nacionalidad.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Nacionalidad.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Nacionalidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto\\Presentacion\\Nacionalidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:48:26.342Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Genero.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Genero.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Genero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto\\Presentacion\\Genero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:48:25Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Disquera.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Disquera.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Disquera.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Disquera.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto\\Presentacion\\Disquera.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:48:24.348Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Idioma.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs",
+              "RelativeToolTip": "proyecto\\Presentacion\\Idioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:43:01.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Idioma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Idioma.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto\\Presentacion\\Idioma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:43:00.106Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tema.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Tema.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs",
+              "RelativeToolTip": "proyecto\\Presentacion\\Tema.cs",
+              "ViewState": "AQIAAGMAAABAaGZmZmYwwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:42:27.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tema.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Tema.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:42:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Album.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Album.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:41:33.446Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioArtistas.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioArtistas.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioArtistas.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioArtistas.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioArtistas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:23:53.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Artista.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto\\Presentacion\\Artista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:24:22.09Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Album.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs",
+              "RelativeToolTip": "proyecto\\Presentacion\\Album.cs",
+              "ViewState": "AQIAAIQBAAAAzMzMzMwuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:38:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioArtistas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioArtistas.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioArtistas.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioArtistas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:18:48.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs",
+              "RelativeDocumentMoniker": "proyecto\\Presentacion\\Artista.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs",
+              "RelativeToolTip": "proyecto\\Presentacion\\Artista.cs",
+              "ViewState": "AgIAACsAAAAAMjMzMzMpwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:24:23.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioDisquera.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioDisquera.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioDisquera.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioDisquera.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioDisquera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:23:23.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioDisquera.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioDisquera.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioDisquera.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioDisquera.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:18:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioTema.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioTema.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioTema.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioTema.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioTema.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAADoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:12:43.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioTema.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioTema.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioTema.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioTema.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:19:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioIdioma.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioIdioma.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioIdioma.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioIdioma.cs",
+              "ViewState": "AQIAAAwAAAAwzczMzMwYwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:19:35.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioIdioma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioIdioma.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioIdioma.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioIdioma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:12:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioAlbum.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioAlbum.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioAlbum.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioAlbum.cs",
+              "ViewState": "AQIAAEQAAAAAZ2ZmZmYawE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:38:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:12:06.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Administracion.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Administracion.cs",
+              "RelativeDocumentMoniker": "proyecto\\Administracion.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Administracion.cs",
+              "RelativeToolTip": "proyecto\\Administracion.cs",
+              "ViewState": "AQIAAGwAAAAAnJmZmZn5v38AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:14:57.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Administracion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Administracion.cs",
+              "RelativeDocumentMoniker": "proyecto\\Administracion.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Administracion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:14:56.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs",
+              "RelativeToolTip": "proyecto\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:12:07.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioAlbum.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioAlbum.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioAlbum.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioAlbum.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:18:47.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioNacionalidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioNacionalidad.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioNacionalidad.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioNacionalidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:19:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsuarioNacionalidad.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioNacionalidad.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioNacionalidad.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioNacionalidad.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioNacionalidad.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:12:52.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsuarioMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioMenu.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioMenu.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:12:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsuarioGenero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioGenero.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioGenero.cs",
+              "ToolTip": "D:\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioGenero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:19:01.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UsuarioGenero.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioGenero.cs",
+              "RelativeDocumentMoniker": "proyecto\\Usuaro\\UsuarioGenero.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Usuaro\\UsuarioGenero.cs",
+              "RelativeToolTip": "proyecto\\Usuaro\\UsuarioGenero.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAiwHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:19:47.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

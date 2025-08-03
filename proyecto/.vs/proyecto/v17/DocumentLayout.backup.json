@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Login\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Login\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\nacionalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Capadedatos\\nacionalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\SQLCONTROL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Capadedatos\\SQLCONTROL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Login\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Login\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Disquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Disquera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentacion\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:03:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tema.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Tema.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Tema.cs",
+              "RelativeToolTip": "Presentacion\\Tema.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:38.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLCONTROL.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\SQLCONTROL.cs",
+              "RelativeDocumentMoniker": "Capadedatos\\SQLCONTROL.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\SQLCONTROL.cs",
+              "RelativeToolTip": "Capadedatos\\SQLCONTROL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:37.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nacionalidades.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\nacionalidades.cs",
+              "RelativeDocumentMoniker": "Capadedatos\\nacionalidades.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Capadedatos\\nacionalidades.cs",
+              "RelativeToolTip": "Capadedatos\\nacionalidades.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nacionalidad.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Nacionalidad.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Nacionalidad.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Nacionalidad.cs",
+              "RelativeToolTip": "Presentacion\\Nacionalidad.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:35.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Login\\inicio.cs",
+              "RelativeDocumentMoniker": "Login\\inicio.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Login\\inicio.cs",
+              "RelativeToolTip": "Login\\inicio.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:34.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Idioma.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Idioma.cs",
+              "RelativeToolTip": "Presentacion\\Idioma.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:34.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Genero.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Genero.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Genero.cs",
+              "RelativeToolTip": "Presentacion\\Genero.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwHAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:32.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Disquera.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Disquera.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Disquera.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Disquera.cs",
+              "RelativeToolTip": "Presentacion\\Disquera.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Artista.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Artista.cs",
+              "RelativeToolTip": "Presentacion\\Artista.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Album.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Presentacion\\Album.cs",
+              "RelativeToolTip": "Presentacion\\Album.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:01:28.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Login\\Admin.cs",
+              "RelativeDocumentMoniker": "Login\\Admin.cs",
+              "ToolTip": "C:\\Users\\Kenny\\Desktop\\proyecto\\proyecto\\Login\\Admin.cs",
+              "RelativeToolTip": "Login\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:00:33.198Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
